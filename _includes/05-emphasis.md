@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+😄 Hello There 👧 I'm Anu, 
+Languages Known:
+*Cpp
+*Php
+*java
+*Python
+My Hobbies are:
+*Drawing
+*Singing
+*Dancing
