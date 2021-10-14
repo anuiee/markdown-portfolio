@@ -1,10 +1,4 @@
-😄 Hello There 👧 I'm Anu, 
-Languages Known:
+😃Favorite:
 *Cpp
 *Php
-*java
 *Python
-My Hobbies are:
-*Drawing
-*Singing
-*Dancing
