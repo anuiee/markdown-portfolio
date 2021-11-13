@@ -1,5 +1,5 @@
-😃Favorite:
-*Cpp
-*Php
-*Python
-*java
+- Favorite:
+* Cpp
+* Php
+* Python
+* java
